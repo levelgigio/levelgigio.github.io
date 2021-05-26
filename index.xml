@@ -35,7 +35,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://levelgigio.github.io/about/</guid>
-      <description>Profile I have always been fascinated by creating things, since I knew the programming (I was still doing civil engineering) I always went after learning more and more, started programming in C, learned the basics of the language, then started using in ARM controllers, Python, and even today I learn about it, but so far I&amp;rsquo;ve used Flask, Django, PySerial, JSON, NumPy, Pandas, Logger, ConfigParser, Cryptographies, among many other modules. I&amp;rsquo;ve always developed Linux, and eventually I&amp;rsquo;ve used Vagrant and Docker to create custom environments.</description>
+      <description>Profile I&amp;rsquo;ve been programming since 2013 when I began working with a robotics team called Equipe Jaguar, during my high school period. I have contributed with Equipe Jaguar for 2 years and we have won multiple competitions together, including the Brazilian Robotics Competition, which granted us the opportunity of competing in an internatinal competition only national winners can go, that took place in China, called RoboCup.
+Just after I got my technical degree in Industrial Automation, I began a bachelor&amp;rsquo;s degree in Computer Engineering that i am currently enrolled.</description>
     </item>
     
     <item>
@@ -44,7 +45,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://levelgigio.github.io/contact/</guid>
-      <description>Information  Name: Giovanni Forastieri Age: 22 Position: Embedded Software Analist Nationality: Brazilian Location: Curitiba/Paraná E-mail: giovanni@forastieri.com.br  </description>
+      <description>You can contact me through email at giovanni@forastieri.com.br or through phone (even though it is likely that I&amp;rsquo;ll not answer) +55 (41) 99181-0172.
+You can also find me at LinkedIn and GitHub.</description>
     </item>
     
     <item>
